@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AbazBajrami/AbazBajrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbazBajrami&show_icons=true&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbazBajrami&theme=tokyonight)](https://github.com/AbazBajrami/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Abaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbazBajrami&theme=xcode)](https://git.io/AbazBajrami)
+
+<p align="left"> 
+<a href="https://www.linkedin.com/in/abaz-bajrami/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+<a href="mailto:abaz.bajrami20@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" /> </a>
+<a href="https://www.instagram.com/abaz_bajrami_/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/> </a>
+</p>
